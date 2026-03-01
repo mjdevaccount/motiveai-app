@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotiveAI.Lambda", "MotiveAI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotiveAI.Events", "MotiveAI.Events\MotiveAI.Events.csproj", "{11B6D966-364F-4176-8CDB-A916D85175D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotiveAI.Agent", "MotiveAI.Agent\MotiveAI.Agent.csproj", "{1942E0AC-E6D2-4230-B63E-752764AA237F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{11B6D966-364F-4176-8CDB-A916D85175D4}.Release|x64.Build.0 = Release|Any CPU
 		{11B6D966-364F-4176-8CDB-A916D85175D4}.Release|x86.ActiveCfg = Release|Any CPU
 		{11B6D966-364F-4176-8CDB-A916D85175D4}.Release|x86.Build.0 = Release|Any CPU
+		{1942E0AC-E6D2-4230-B63E-752764AA237F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1942E0AC-E6D2-4230-B63E-752764AA237F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1942E0AC-E6D2-4230-B63E-752764AA237F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1942E0AC-E6D2-4230-B63E-752764AA237F}.Debug|x64.Build.0 = Debug|Any CPU
+		{1942E0AC-E6D2-4230-B63E-752764AA237F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1942E0AC-E6D2-4230-B63E-752764AA237F}.Debug|x86.Build.0 = Debug|Any CPU
+		{1942E0AC-E6D2-4230-B63E-752764AA237F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1942E0AC-E6D2-4230-B63E-752764AA237F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1942E0AC-E6D2-4230-B63E-752764AA237F}.Release|x64.ActiveCfg = Release|Any CPU
+		{1942E0AC-E6D2-4230-B63E-752764AA237F}.Release|x64.Build.0 = Release|Any CPU
+		{1942E0AC-E6D2-4230-B63E-752764AA237F}.Release|x86.ActiveCfg = Release|Any CPU
+		{1942E0AC-E6D2-4230-B63E-752764AA237F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
