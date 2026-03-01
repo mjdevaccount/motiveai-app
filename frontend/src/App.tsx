@@ -58,7 +58,7 @@ function AnalyzerApp() {
                     type="text"
                     value={topic}
                     onChange={e => setTopic(e.target.value)}
-                    placeholder="e.g. US strikes Iran on Friday night"
+                    placeholder="e.g. Federal Reserve raises interest rates unexpectedly"
                     style={{ width: '100%', padding: '0.75rem', fontSize: '1rem', boxSizing: 'border-box' }}
                 />
             </div>
@@ -70,7 +70,7 @@ function AnalyzerApp() {
                 <textarea
                     value={context}
                     onChange={e => setContext(e.target.value)}
-                    placeholder="e.g. Epstein files resurfacing, approval ratings at all-time low, election cycle timing..."
+                    placeholder="e.g. Inflation data released same week, midterm elections approaching, banking sector under pressure..."
                     rows={4}
                     style={{ width: '100%', padding: '0.75rem', fontSize: '1rem', boxSizing: 'border-box' }}
                 />
