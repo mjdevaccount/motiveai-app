@@ -1,0 +1,28 @@
+# .NET
+**/obj/
+**/bin/
+**/publish/
+*.user
+
+# React/Node
+node_modules/
+dist/
+.vite/
+
+# Env files - NEVER commit these
+.env
+.env.*
+.env.local
+
+# AWS
+cdk.out/
+.aws/
+
+# IDE
+.vs/
+.vscode/
+*.suo
+
+# Secrets
+secrets.json
+appsettings.local.json
